@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over 𝗪𝗨𝗦𝗔𝗙"];
+const statusMessages = ["Fighthing for WUSA"];
 
 
 let currentIndex = 0;
